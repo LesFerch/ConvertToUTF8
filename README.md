@@ -10,7 +10,7 @@ This program uses the [UTF Unknown](https://github.com/CharsetDetector/UTF-unkno
 
 **WARNING**: This program overwrites the original file with the converted file! You may want to make a backup copy first!
 
-[![image](https://user-images.githubusercontent.com/79026235/152910441-59ba653c-5607-4f59-90c0-bc2851bf2688.png)Download the zip file](https://github.com/LesFerch/ConvertToUTF8/releases/download/1.0.0/ConvertToUTF8.zip)
+[![image](https://github.com/LesFerch/WinSetView/assets/79026235/0188480f-ca53-45d5-b9ff-daafff32869e)Download the zip file](https://github.com/LesFerch/ConvertToUTF8/releases/download/1.0.0/ConvertToUTF8.zip)
 
 ## How to Download and Run
 
@@ -23,4 +23,4 @@ This program uses the [UTF Unknown](https://github.com/CharsetDetector/UTF-unkno
 
 **Note**: Some antivirus software may falsely detect the download as a virus. This can happen any time you download a new executable and may require extra steps to whitelist the file.
 
-[![image](https://user-images.githubusercontent.com/79026235/153264696-8ec747dd-37ec-4fc1-89a1-3d6ea3259a95.png)](https://github.com/LesFerch/ConvertToUTF8)
+[![image](https://github.com/LesFerch/WinSetView/assets/79026235/63b7acbc-36ef-4578-b96a-d0b7ea0cba3a)](https://github.com/LesFerch/ConvertToUTF8)
