@@ -23,6 +23,6 @@ This program uses the [UTF Unknown](https://github.com/CharsetDetector/UTF-unkno
 
 **Note**: Some antivirus software may falsely detect the download as a virus. This can happen any time you download a new executable and may require extra steps to whitelist the file.
 \
-\
+
 
 [![image](https://github.com/LesFerch/WinSetView/assets/79026235/63b7acbc-36ef-4578-b96a-d0b7ea0cba3a)](https://github.com/LesFerch/ConvertToUTF8)
